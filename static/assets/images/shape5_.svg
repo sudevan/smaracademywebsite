@@ -1,0 +1,39 @@
+<svg width="1920" height="687" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient y2="0.65736" x2="0.76738" y1="0.76963" x1="0.16233" id="paint0_linear">
+   <stop stop-color="#F4992B"/>
+   <stop stop-color="#F9CC26" offset="1"/>
+  </linearGradient>
+  <linearGradient y2="0.90443" x2="0.01079" y1="0.71589" x1="0.85703" id="paint1_linear">
+   <stop stop-color="#F4992B"/>
+   <stop stop-color="#F9CC26" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <path id="svg_1" fill="url(#paint0_linear)" d="m1028.57,567.932c-542.407,138.036 -908.562,-39.243 -1023.83857,-145.136l637.92657,-339.6193l1785.652,210.6233c52.34,95.422 65.74,284.485 -299.34,277.364c-456.35,-8.901 -422.4,-175.776 -1100.4,-3.232z" opacity="0.1"/>
+  <path id="svg_2" fill-opacity="0.2" fill="url(#paint1_linear)" d="m1559.57,521.401c217.14,70.404 333.59,75.944 413.82,50.121l22.3,-1078.877l-2275.51,-47.043l-20.776,1004.929c441.689,266.988 1037.548,136.76 1174.826,90.481c238.23,-80.314 435.11,-100.749 685.34,-19.611z"/>
+  <path id="svg_3" fill="#d4aaff" d="m1575,458.312c189.16,57.058 290.03,59.769 359,35.981l0,-494.293l-1970,0l0,430.254c387,223.205 900.308,99.815 1018.276,57.298c204.724,-73.784 374.724,-94.996 592.724,-29.24z"/>
+  <path id="svg_4" fill="white" d="m806,362.112c62.4,-152 -18,-306.0003 -66,-364.00028c360.67,-28.66662 1084,-83.60002 1092,-74.00002c10,12 32,154 -116,280.0003c-148,126 -380,28 -472,270c-92,242 -256,208 -326,198c-70,-10 -190,-120 -112,-310z" opacity="0.1"/>
+  <g id="svg_5" opacity="0.05">
+   <path id="svg_6" fill="white" d="m1711,316.682l257,0l0,62.24l-257,0l0,-62.24z"/>
+   <path id="svg_7" fill="white" d="m1870.56,220l0,255l-62.73,0l0,-255l62.73,0z"/>
+  </g>
+  <g id="svg_8" opacity="0.1">
+   <path id="svg_9" fill="white" d="m1665,501.521l187,0l0,45.398l-187,0l0,-45.398z"/>
+   <path id="svg_10" fill="white" d="m1781.1,431l0,186l-45.64,0l0,-186l45.64,0z"/>
+  </g>
+  <g id="svg_11" opacity="0.05">
+   <path id="svg_12" fill="white" d="m-19,336.156l309,0l0,75.42l-309,0l0,-75.42z"/>
+   <path id="svg_13" fill="white" d="m172.844,219l0,309l-75.4198,0l0,-309l75.4198,0z"/>
+  </g>
+  <g id="svg_14" opacity="0.1">
+   <path id="svg_15" fill="white" d="m127,555.379l212,0l0,51.744l-212,0l0,-51.744z"/>
+   <path id="svg_16" fill="white" d="m258.621,475l0,212l-51.744,0l0,-212l51.744,0z"/>
+  </g>
+ </g>
+</svg>
