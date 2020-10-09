@@ -10,3 +10,9 @@ class Homepageview(View):
         context ={}
         #return HttpResponse("Hello, world. You're at the polls index.")
         return render(request,self.template_name,context)
+class enquery(View):
+    def get(self,request,*args,**kwargs):
+        context ={}
+        print("Got an enquery")
+        return HttpResponse("sucess")
+        #return render(request,self.template_name,context)

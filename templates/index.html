@@ -54,7 +54,7 @@
 
 <header class="header">
 	<div class="header-wrap container">
-		<a href="index.html" class="logo">
+		<a href="{% url 'enquery' %}" class="logo">
 			<img src= '{% static "assets/images/logo.svg" %}' alt="logo">
 		</a>
 		<div class="menu-wrap">
@@ -932,7 +932,7 @@
             submitHandler: function(form) {
                 $.ajax({
                     type: "POST",
-                    url: 'https://admin.mytuitionapp.com/wp-json/web/v1/submitenquery',
+                    url: 'http://test.1bestsolution.com/submitenquery/',
                     data: $(form).serialize(),
                     dataType: "json",
                     beforeSend: function(){
@@ -984,7 +984,7 @@
             submitHandler: function(form) {
                 $.ajax({
                     type: "POST",
-                    url: 'http://test.1bestsolution.com/submitenquery',
+                    url: 'http://test.1bestsolution.com/submitenquery/',
                     data: $(form).serialize(),
                     dataType: "json",
                     beforeSend: function(){
